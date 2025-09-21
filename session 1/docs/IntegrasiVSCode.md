@@ -35,6 +35,9 @@ Bagian "youremail@example.com" masukkan nama bebas (misalnya; tugas), lalu tekan
 
 ### 7. Keluar dengan Perintah *exit*
 Masukkan perintah ini untuk keluar dari proses sebelumnya.
+```bash
+exit
+```
 
 ### 8. Lewati Passphrase
 Saat muncul tulisan *Enter passphrase*, cukup tekan enter dua kali tanpa mengetik apa-apa.
