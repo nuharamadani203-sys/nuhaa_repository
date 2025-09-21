@@ -1,7 +1,7 @@
 # Cara Integrasi VSCode dengan GitHub
 
 ### 1. Buat Akun **GitHub**
-Buka hhtps://github.com lalu daftar dengan email aktif
+Buka https://github.com lalu daftar dengan email aktif
 
 #### 2. Buka **Terminal** kemudian Buat Folder
 Salin perintah ini dan tempel di **Terminal** dengan klik **Ctrl+Shift+V** lalu tekan enter
