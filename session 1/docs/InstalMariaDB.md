@@ -11,7 +11,7 @@
 sudo apt install mariadb-server mariadb-client
 ``` 
 2. kembali ke **Terminal**, kemudian tempel (paste) perintah yang sudah disalin dengan klik **Ctrl+Shift+V**
-3. Masukkan password dan tekan Enter lagi untuk memulai instalasi
+3. Masukkan password dan tekan Enter lagi untuk memulai instalasi 
 
 ## Langkah 3: Amankan Instalasi MariaDB
 1. Kembali ke panduan di Firefox dan cari bagian **Secure the Installation**
