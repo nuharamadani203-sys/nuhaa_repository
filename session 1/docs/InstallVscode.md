@@ -56,6 +56,7 @@ Setelah instalasi selesai, ketik perintah ini di **Terminal** untuk membuka apli
 ```bash
 code
 ```
+![vscode](../Images/screenshoot.jpeg)
 Atau bisa mencarinya di menu aplikasi.
 
 
