@@ -47,7 +47,9 @@ Salin kode ini:
 ```bash
 sudo systemctl status mongod
 ```
-Tempel di **Terminal** dan klik enter. Jika MongoDB berhasil terinstal, akan muncul tulisan **active(running)**. Untuk keluar dari tampilan status, klik **:q** lalu enter
+Tempel di **Terminal** dan klik enter. Jika MongoDB berhasil terinstal, akan muncul tulisan **active(running)**.
+![mongodb](<../Images/Screenshot from 2025-09-22 13-03-59.png>)
+Untuk keluar dari tampilan status, klik **:q** lalu enter
 
 
 ### 7. Masuk ke Shell MongoDB
