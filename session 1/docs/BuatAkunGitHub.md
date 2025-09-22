@@ -12,7 +12,9 @@ Klik **Sign up for GitHub**.
 
 ### 3. Verifikasi Akun
 ![akunGitHub](../Images/screenshot_15.jpeg)
+
 Untuk memverifikasi akun, selesaikan teka-teki **captcha**. Setelah itu klik **Create account** 
+
 ![akunGitHub](../Images/screenshot_16.jpeg)
 
 ### 4. Akun GitHub Berhasil Dibuat
