@@ -2,8 +2,10 @@
 
 ### 1. Buat Akun **GitHub**
 Buka https://github.com lalu daftar dengan email aktif
+![VSCode-Github](../../Images/screenshot_3.jpeg)
 
 ### 2. Buka **Terminal** kemudian Buat Folder
+![VSCode-Github](../../Images/screenshot_terminal.jpeg)
 Salin perintah ini dan tempel di **Terminal** dengan klik **Ctrl+Shift+V** lalu tekan enter
 ```bash
 mkdir .ssh
@@ -40,10 +42,12 @@ exit
 ```
 
 ### 8. Lewati Passphrase
+![VSCode-Github](../../Images/screenshot_4.jpeg)
 Saat muncul tulisan *Enter passphrase*, cukup tekan enter dua kali tanpa mengetik apa-apa.
 
 ### 9. Cek Isi Folder
-Masukkan perintah ini untuk memastikan file sudah berhasil dibuat
+![alt text](../../Images/screenshot_2.jpeg)
+Setelah muncul seperti ini, masukkan perintah ini untuk memastikan file sudah berhasil dibuat
 ```bash
 ls
 ```
@@ -55,9 +59,11 @@ cat exit.pub
 ```
 
 ### 11. Salin Kode
-Salin kode panjang tersebut (dimulai dari *ssh-rsa...* sampai alamat email di belakang).
+![VSCode-Github](../Images/screenshot_1.jpeg)
+Setelah muncul kode panjang,salin kode tersebut (dimulai dari *ssh-rsa...* sampai alamat email di belakang).
 
 ### 12. Buka **Github**
+![VSCode-GitHub](../Images/screenshot_7.jpeg)
 Buka **GitHub**, klik icon profil kanan atas lalu pilih settings
 
 ### 13. Masuk ke Menu **SSH and GPG Keys**

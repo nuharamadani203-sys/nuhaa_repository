@@ -1,6 +1,6 @@
 # Cara Instal MariaDB
 ### Langkah 1: Buka terminal
-![terminal](../../Images/screenshot_terminal.jpeg)
+![mariadb](../Images/screenshot_terminal.jpeg)
 
 
 ### Langkah 2: Instal MariaDB Server
@@ -27,4 +27,4 @@ sudo systemctl status mariadb
 ```
 2. Di **Terminal**, tempel perintah tersebut dengan klik **Ctrl+Shift+V**
 3. Jika Instalasi berhasil, maka akan terlihat status **active (running)**
-![mariadb](../../Images/screenshot_6.jpeg)
+![mariadb](../Images/screenshot_6.jpeg)
