@@ -1,0 +1,6 @@
+# Unable to Install MariaDB in Debian
+![alt text](<../Images/WhatsApp Image 2025-09-22 at 13.43.38(1).jpeg>)
+##### Poses instalasi tidak bisa dilanjutkan karena beberapa "bahan" atau paket yang dibutuhkan tidak bisa ditemukan atau tidak cocok. Yaitu versi MariaDB belum terupdate sehingga di debian tidak bisa menginstall MariaDB.
+
+##### Solusi: Ganti Linux lain, yaitu Linux Mint.
+
