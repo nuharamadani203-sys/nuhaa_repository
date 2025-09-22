@@ -49,6 +49,7 @@ sudo systemctl status mongod
 ```
 Tempel di **Terminal** dan klik enter. Jika MongoDB berhasil terinstal, akan muncul tulisan **active(running)**.
 ![alt text](../Images/screnshot_12.png)
+
 Untuk keluar dari tampilan status, klik **:q** lalu enter
 
 
