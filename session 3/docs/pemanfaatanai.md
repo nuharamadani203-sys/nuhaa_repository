@@ -351,5 +351,5 @@ Namun, pemahaman konsep normalisasi tetap penting. AI adalah tools yang powerful
 **Tips Terakhir:** Mulai dari proyek kecil, pahami konsep dasar normalisasi, lalu manfaatkan AI untuk mempercepat dan memvalidasi pekerjaan Anda. Kombinasi pemahaman konseptual dan bantuan AI akan menghasilkan desain database yang optimal.
 
 
-Absensi:
+### Absensi:
 ![absensi](<../Images/WhatsApp Image 2025-10-08 at 12.57.50.jpeg>)
