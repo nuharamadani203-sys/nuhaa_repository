@@ -121,7 +121,7 @@ Berikan struktur tabel baru dengan relationship-nya."
 OrderID | ProdukID | NamaPelanggan | AlamatPelanggan | NamaProduk | Harga
 ```
 
-**2NF (dengan bantuan AI):**
+**2NF (dengan bantuan AI):** 
 
 *Tabel Orders:*
 ```
