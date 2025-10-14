@@ -1,3 +1,4 @@
+# Review Modul
 ## Pertemuan 2 - Pengantar
 ### Modul 2: Data
 Modul ini membahas mengenai **Data dan Konsep Dasar Data**. Data didefinisikan sebagai fakta, catatan, atau observasi yang belum diolah dan bisa berupa apa saja, seperti angka, teks, gambar, atau audio. Data penting karena menjadi dasar dari informasi, wawasan, dan pengambilan keputusan di berbagai bidang, terutama dalam dunia digital.
